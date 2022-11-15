@@ -18,4 +18,5 @@ Total HTTP traffic: 12.4 MiB
 |**Dirs:** 3,511 **Ext:** 34|**Total:** 19,395|**Total:** 3.13 TiB|
 |**Date (UTC):** 2022-11-15 09:57:12|**Time:** 00:07:40||
 <hr>
-^(Created by [KoalaBear84's OpenDirectory Indexer v2.7.0.1](https://github.com/KoalaBear84/OpenDirectoryDownloader/))
+
+[KoalaBear84's OpenDirectory Indexer v2.7.0.1](https://github.com/KoalaBear84/OpenDirectoryDownloader/)
