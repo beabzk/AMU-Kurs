@@ -21,4 +21,4 @@ Total HTTP traffic: 12.58 MiB<br>
 
 <hr>
 
-Created by [KoalaBear84's OpenDirectory Indexer v2.9.1.0](https://github.com/KoalaBear84/OpenDirectoryDownloader/)
+Created by [KoalaBear84's OpenDirectory Indexer v3.1.0.0](https://github.com/KoalaBear84/OpenDirectoryDownloader/)
